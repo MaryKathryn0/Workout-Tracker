@@ -28,7 +28,6 @@ const workoutSchema = new Schema({
             },
             duration: {
                 type: Number,
-                required: "Enter how many minutes you exercised:"
             },
             distance: {
                 type: Number,
